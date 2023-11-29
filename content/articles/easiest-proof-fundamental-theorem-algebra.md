@@ -3,7 +3,7 @@ slug: possibly-easiest-proof-fundamental-theorem-algebra
 summary: I'll show you what I think may be the easiest proof of the Fundamental Theorem of Algebra
 header_cover: /images/a_working_mathematician.png
 tags: math
-status: draft
+
 
 <style>
 .intro-header {
