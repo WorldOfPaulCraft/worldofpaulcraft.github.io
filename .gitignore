@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 ._*
 *.lock
@@ -7,3 +8,6 @@
 *.py[cod]
 drafts/*
 
+=======
+__pycache__/
+>>>>>>> f8293aa (Update blog code.  Add themes and plugins as submodules.)
